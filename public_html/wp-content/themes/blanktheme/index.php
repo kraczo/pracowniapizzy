@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <?php get_sidebar(); ?>
-
+<!-- sprawdzenie zmiany dla gita przy dodawaniu do repo-->
     <div id="home" class="big">
 	
 		<?php while (have_posts()) : the_post(); ?>
